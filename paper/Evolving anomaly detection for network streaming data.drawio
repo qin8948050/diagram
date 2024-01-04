@@ -1,9 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2024-01-04T03:36:12.144Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.16" etag="jmcuoDgmNiiJopgr1ws5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-04T05:43:25.840Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="VzNNsy5mFhaq-J2Y6S7R" version="22.1.16" type="github">
   <diagram name="第 1 页" id="80tLAemX2LjPjK77r8w_">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="SiPf87VK308XJuag_e49-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SiPf87VK308XJuag_e49-1" target="SiPf87VK308XJuag_e49-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SiPf87VK308XJuag_e49-1" value="outliter&lt;br&gt;threshold" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="180" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SiPf87VK308XJuag_e49-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SiPf87VK308XJuag_e49-2" target="SiPf87VK308XJuag_e49-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SiPf87VK308XJuag_e49-2" value="outlier&lt;br&gt;cluster" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="110" y="190" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SiPf87VK308XJuag_e49-5" value="normal&lt;br&gt;cluster" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="530" y="190" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SiPf87VK308XJuag_e49-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SiPf87VK308XJuag_e49-7" target="SiPf87VK308XJuag_e49-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SiPf87VK308XJuag_e49-7" value="mini&lt;br&gt;threshold" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="180" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SiPf87VK308XJuag_e49-10" value="局部密度阈值" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SiPf87VK308XJuag_e49-11" value="全局密度阈值" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
