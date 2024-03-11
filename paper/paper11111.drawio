@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-09T13:42:18.369Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="4Aal7v168bn8fXLHiHth" version="24.0.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-03-11T13:18:30.606Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="79xgy3LnLzQFekd1PIM0" version="24.0.3" type="github" pages="4">
   <diagram name="第k距离" id="CrgDQUyZvMiKQ319q3F9">
     <mxGraphModel dx="1026" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -160,6 +160,17 @@
         </mxCell>
         <mxCell id="pcztxO2rEpAHR26Ek-OE-14" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;异常得分&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="643" y="285" width="134" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="8enKxr2HIYtsmv9ViIG4" name="密度聚类">
+    <mxGraphModel dx="1666" dy="701" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AUI57bEPEny5ajrz7blF-1" value="KPI&lt;div&gt;时间序列&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-262" y="107" width="108" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
