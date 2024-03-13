@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T08:49:43.103Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="LlFIn1neNZdPbu0FDL8c" version="24.0.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-03-13T08:57:40.810Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="7CzqBRWBqX2qwU-Yidvd" version="24.0.2" type="github" pages="6">
   <diagram name="第k距离" id="CrgDQUyZvMiKQ319q3F9">
     <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -304,6 +304,41 @@
         </mxCell>
         <mxCell id="0rbDIuR1BNi9rUnAI3NP-104" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;噪声点&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="577" y="407.5" width="56" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="06_GXfg1hUVnGRqCDPll" name="denstream">
+    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2434VWjjgZWKVXPvfzju-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="192.5" width="190" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="2434VWjjgZWKVXPvfzju-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=default;fillColor=#0f0000;" vertex="1" parent="1">
+          <mxGeometry x="162.5" y="235" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="2434VWjjgZWKVXPvfzju-6" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=default;fillColor=#0f0000;" vertex="1" parent="1">
+          <mxGeometry x="185" y="260" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="2434VWjjgZWKVXPvfzju-8" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=default;fillColor=#0f0000;" vertex="1" parent="1">
+          <mxGeometry x="88" y="230" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="2434VWjjgZWKVXPvfzju-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=default;fillColor=#0f0000;" vertex="1" parent="1">
+          <mxGeometry x="210" y="207" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="2434VWjjgZWKVXPvfzju-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=default;fillColor=#0f0000;" vertex="1" parent="1">
+          <mxGeometry x="205" y="330" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="2434VWjjgZWKVXPvfzju-12" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=default;fillColor=#0f0000;" vertex="1" parent="1">
+          <mxGeometry x="180" y="352.5" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="2434VWjjgZWKVXPvfzju-40" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FF0000;fillColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="190" y="290" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="2434VWjjgZWKVXPvfzju-41" value="离群微簇" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="280" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
