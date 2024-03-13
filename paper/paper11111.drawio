@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T09:06:22.042Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="TdZLxmjV2o0CZnP3wjNp" version="24.0.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-03-13T09:07:50.048Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="c1UYQEmmy0GIMac-6Ekp" version="24.0.2" type="github" pages="6">
   <diagram name="第k距离" id="CrgDQUyZvMiKQ319q3F9">
     <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -450,6 +450,27 @@
         </mxCell>
         <mxCell id="2434VWjjgZWKVXPvfzju-84" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#3399FF;fillColor=#3399FF;" vertex="1" parent="1">
           <mxGeometry x="429" y="420" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="2434VWjjgZWKVXPvfzju-85" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FF0000;fillColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="536" y="490" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="2434VWjjgZWKVXPvfzju-86" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2434VWjjgZWKVXPvfzju-87" value="离群微簇" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="546" y="480" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2434VWjjgZWKVXPvfzju-88" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#3399FF;fillColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="536" y="465" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="2434VWjjgZWKVXPvfzju-89" value="潜在微簇" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="546" y="455" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2434VWjjgZWKVXPvfzju-90" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=default;fillColor=#0f0000;" vertex="1" parent="1">
+          <mxGeometry x="535" y="440" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="2434VWjjgZWKVXPvfzju-91" value="核心微簇" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="545" y="430" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
