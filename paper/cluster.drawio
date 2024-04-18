@@ -1,9 +1,87 @@
-<mxfile host="app.diagrams.net" modified="2024-04-18T02:55:48.334Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="24.2.5" etag="vofrd_eq_N9hMhGBWzFT" type="github">
-  <diagram name="第 1 页" id="RgHdYOKnfw_S_Q0Fx3bP">
-    <mxGraphModel>
+<mxfile host="app.diagrams.net" modified="2024-04-18T03:18:41.341Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="_2Lz6mXK4H_sEujCH46Z" version="24.2.5" type="github">
+  <diagram name="Merge" id="RgHdYOKnfw_S_Q0Fx3bP">
+    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="sw7gWKhEdiC4wmGaFL4V-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="sw7gWKhEdiC4wmGaFL4V-1" target="sw7gWKhEdiC4wmGaFL4V-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sw7gWKhEdiC4wmGaFL4V-1" value="平滑后的时间序列X" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="303.75" y="120" width="104" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="sw7gWKhEdiC4wmGaFL4V-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sw7gWKhEdiC4wmGaFL4V-2" target="sw7gWKhEdiC4wmGaFL4V-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sw7gWKhEdiC4wmGaFL4V-6" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sw7gWKhEdiC4wmGaFL4V-5">
+          <mxGeometry x="-0.2769" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sw7gWKhEdiC4wmGaFL4V-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sw7gWKhEdiC4wmGaFL4V-2" target="sw7gWKhEdiC4wmGaFL4V-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sw7gWKhEdiC4wmGaFL4V-2" value="Radius(C&lt;sub&gt;p&lt;/sub&gt;)&amp;lt;=&lt;span style=&quot;color: rgb(25, 27, 31); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-size: medium; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;ε?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="297.62" y="190" width="116.25" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="sw7gWKhEdiC4wmGaFL4V-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sw7gWKhEdiC4wmGaFL4V-4" target="sw7gWKhEdiC4wmGaFL4V-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sw7gWKhEdiC4wmGaFL4V-4" value="将 X合并至C&lt;sub&gt;p&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="270" width="104" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="sw7gWKhEdiC4wmGaFL4V-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sw7gWKhEdiC4wmGaFL4V-7" target="sw7gWKhEdiC4wmGaFL4V-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sw7gWKhEdiC4wmGaFL4V-15" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sw7gWKhEdiC4wmGaFL4V-14">
+          <mxGeometry x="-0.0466" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sw7gWKhEdiC4wmGaFL4V-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sw7gWKhEdiC4wmGaFL4V-7" target="sw7gWKhEdiC4wmGaFL4V-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sw7gWKhEdiC4wmGaFL4V-21" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sw7gWKhEdiC4wmGaFL4V-19">
+          <mxGeometry x="-0.12" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sw7gWKhEdiC4wmGaFL4V-7" value="Radius(C&lt;span style=&quot;font-size: 10px;&quot;&gt;o&lt;/span&gt;)&amp;lt;=&lt;span style=&quot;color: rgb(25, 27, 31); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-size: medium; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;ε?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="297.63" y="340" width="116.25" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="sw7gWKhEdiC4wmGaFL4V-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="sw7gWKhEdiC4wmGaFL4V-9" target="sw7gWKhEdiC4wmGaFL4V-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sw7gWKhEdiC4wmGaFL4V-9" value="将X合并至C&lt;span style=&quot;font-size: 10px;&quot;&gt;o&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="116.13" y="490" width="104" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="sw7gWKhEdiC4wmGaFL4V-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="sw7gWKhEdiC4wmGaFL4V-11" target="sw7gWKhEdiC4wmGaFL4V-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sw7gWKhEdiC4wmGaFL4V-11" value="W(C&lt;span style=&quot;font-size: 10px;&quot;&gt;o&lt;/span&gt;)&amp;gt;&lt;span style=&quot;color: rgb(25, 27, 31); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-size: medium; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;μ&lt;/span&gt;&lt;span style=&quot;color: rgb(25, 27, 31); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-size: medium; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="570" width="116.25" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="sw7gWKhEdiC4wmGaFL4V-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sw7gWKhEdiC4wmGaFL4V-16" target="sw7gWKhEdiC4wmGaFL4V-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sw7gWKhEdiC4wmGaFL4V-16" value="将C&lt;sub&gt;o&lt;/sub&gt;&amp;nbsp;转化为 C&lt;sub&gt;p&lt;br&gt;&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="116.13" y="720" width="104" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="sw7gWKhEdiC4wmGaFL4V-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sw7gWKhEdiC4wmGaFL4V-18" target="sw7gWKhEdiC4wmGaFL4V-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sw7gWKhEdiC4wmGaFL4V-18" value="生成C&lt;sub&gt;o&lt;/sub&gt;并存放至outlier-buffer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="304.76" y="490" width="104" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="sw7gWKhEdiC4wmGaFL4V-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sw7gWKhEdiC4wmGaFL4V-22" target="sw7gWKhEdiC4wmGaFL4V-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sw7gWKhEdiC4wmGaFL4V-22" value="label=1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="304.76" y="610" width="104" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="sw7gWKhEdiC4wmGaFL4V-24" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="304.76" y="720" width="104" height="44" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
